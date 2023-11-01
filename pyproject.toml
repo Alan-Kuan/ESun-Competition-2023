@@ -18,6 +18,8 @@ lightgbm = "^4.1.0"
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.25.2"
 nbdime = "^3.2.1"
+jupyterlab = "^4.0.7"
+jupyter-collaboration = "^1.2.0"
 
 [build-system]
 requires = ["poetry-core"]
