@@ -1,5 +1,5 @@
 data/*
 models/*
-.ipynb_checkpoints/*
+.ipynb_checkpoints
 .jupyter_ystore.db
 *.csv
